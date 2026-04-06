@@ -62,7 +62,7 @@ After updating the region and re-running Terraform, the deployment succeeded.
 
 | Item               | Value                         |
 |--------------------|-------------------------------|
-| Public IP          | (your VM IP here)             |
+| Public IP          | VM IP                         |
 | OS                 | Ubuntu                        |
 | Authentication     | Username & Password           |
 | SSH Enabled        | Yes                           |
